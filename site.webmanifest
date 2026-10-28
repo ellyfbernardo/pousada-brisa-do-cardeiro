@@ -1,0 +1,15 @@
+{
+  "name": "Pousada Brisa do Cardeiro",
+  "short_name": "Brisa do Cardeiro",
+  "description": "Pousada boutique a menos de 200 m da praia em São Miguel do Gostoso – RN.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FBF7F1",
+  "theme_color": "#8A5416",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://pousadabrisadocardeiro.com.br/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://pousadabrisadocardeiro.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pousadabrisadocardeiro.com.br/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pousadabrisadocardeiro.com.br/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pousadabrisadocardeiro.com.br/"/>
+  </url>
+  <url>
+    <loc>https://pousadabrisadocardeiro.com.br/?lang=en</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://pousadabrisadocardeiro.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pousadabrisadocardeiro.com.br/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pousadabrisadocardeiro.com.br/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pousadabrisadocardeiro.com.br/"/>
+  </url>
+  <url>
+    <loc>https://pousadabrisadocardeiro.com.br/?lang=es</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://pousadabrisadocardeiro.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pousadabrisadocardeiro.com.br/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pousadabrisadocardeiro.com.br/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pousadabrisadocardeiro.com.br/"/>
+  </url>
+</urlset>
